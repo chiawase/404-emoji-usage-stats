@@ -32,6 +32,8 @@
     "start": "node ./src/index.js"
   },
   "dependencies": {
-    "discord.js": "github:discordjs/discord.js#master"
+    "discord.js": "github:discordjs/discord.js#master",
+    "emoji-regex": "^9.0.0",
+    "google-spreadsheet": "^3.0.11"
   }
 }
