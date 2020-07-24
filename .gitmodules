@@ -1,0 +1,3 @@
+[submodule "src/widgets/discord-emoji-log-bot"]
+	path = src/widgets/discord-emoji-log-bot
+	url = https://github.com/chiawase/404-emoji-usage-bot
