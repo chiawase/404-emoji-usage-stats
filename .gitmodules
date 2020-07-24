@@ -1,0 +1,3 @@
+[submodule "src/widgets/404-discord-emoji-tracking"]
+	path = src/widgets/404-discord-emoji-tracking
+	url = git@github.com:chiawase/404-discord-emoji-tracking.git
